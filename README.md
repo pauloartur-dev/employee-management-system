@@ -24,4 +24,4 @@ Proteção de dados sensíveis e validação de regras de negócio (como impedir
 ## 🛠️ Como rodar o projeto
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/pauloartur-dev/NOME_DO_REPO.git](https://github.com/pauloartur-dev/NOME_DO_REPO.git)
+   git clone https://github.com/pauloartur-dev/employee-management-system.git
